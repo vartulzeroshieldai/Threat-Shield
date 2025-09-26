@@ -1,2 +1,2 @@
-# zeroshield
-ZeroShield – An Agentic AI solution for advanced threat protection.
+# Threat-Shield
+Threat-Shield – An Agentic AI solution for advanced threat protection.
