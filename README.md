@@ -185,9 +185,10 @@ Empower teams to rapidly identify, understand, and remediate security risks—ac
 ### Demo Video for Threat Modeling of Normal Systems
 
 <div align="center">
-  <a href="https://github.com/user-attachments/assets/10ec45b0-a35f-45a7-a03f-c11f754e11b8">
-    <img src="https://img.shields.io/badge/🎥_Watch_Threat_Modeling_Of_Normal_Systems_Demo-blueviolet" alt="Watch Demo Video" />
-  </a>
+  <video width="800" height="600" controls>
+    <source src="https://github.com/user-attachments/assets/10ec45b0-a35f-45a7-a03f-c11f754e11b8" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ---
@@ -277,9 +278,10 @@ Threat Shield leverages the **Garak** framework for LLM security, running dozens
 ### Demo Video for LLM Vulnerability Testing
 
 <div align="center">
-  <a href="https://github.com/user-attachments/assets/8dd9b7b6-4781-4b37-8a62-788bc274b79d">
-    <img src="https://img.shields.io/badge/🎥_Watch_LLM_Vulnerability_Testing_Demo-blueviolet" alt="Watch LLM Scanning Demo Video" />
-  </a>
+  <video width="800" height="600" controls>
+    <source src="https://github.com/user-attachments/assets/8dd9b7b6-4781-4b37-8a62-788bc274b79d" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ---
@@ -401,9 +403,10 @@ Threat Shield leverages the **Garak** framework for LLM security, running dozens
 ### Demo Video for MCP Server Vulnerability Scanning
 
 <div align="center">
-  <a href="https://github.com/user-attachments/assets/b41ce23a-b494-49ae-81d4-46ec39a3a7ef">
-    <img src="https://img.shields.io/badge/🎥_Watch_MCP_Server_Vulnerability_Scanning_Demo-blueviolet" alt="Watch MCP Scanning Demo Video" />
-  </a>
+  <video width="800" height="600" controls>
+    <source src="https://github.com/user-attachments/assets/b41ce23a-b494-49ae-81d4-46ec39a3a7ef" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 
