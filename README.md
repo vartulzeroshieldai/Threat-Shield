@@ -1,7 +1,12 @@
-# Threat Shield
-
 <div align="center">
-   <img width="200" height="200" alt="Threat Shield (ZAPESIC) Logo" src="https://github.com/user-attachments/assets/03398106-6184-47b0-b1f4-403d375f2eba" />
+
+# 🛡️ Threat Shield
+
+### *Advanced Threat Modeling & Security Intelligence Platform*
+
+<br />
+
+   <img width="200" height="200" alt="Threat Shield Logo" src="./Static Assets/Blue-Logo.png" />
    <br />
    <em>Threat Shield, a part of <a href="https://zeroshield.ai">ZeroShield</a></em>
 
@@ -470,7 +475,6 @@ We welcome contributions from the security community! Here's how you can get inv
 
 - **General Contact**: [vartul@zeroshield.ai](mailto:vartul@zeroshield.ai)
 - **Support**: [support@zeroshield.ai](mailto:support@zeroshield.ai)
-- **Partnerships**: [partnerships@zeroshield.ai](mailto:partnerships@zeroshield.ai)
 
 ---
 
