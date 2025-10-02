@@ -60,6 +60,7 @@
 - [Example Workflows & User Benefits](#example-workflows--user-benefits)
 - [Use Cases](#use-cases)
 - [Tech Stack](#tech-stack)
+- [Case Studies](#case-studies)
 - [Support](#support)
 - [Get Involved](#get-involved)
 
@@ -436,6 +437,17 @@ https://github.com/user-attachments/assets/b41ce23a-b494-49ae-81d4-46ec39a3a7ef
 - **AI Analysis:** LLM/AI-powered integrations, Garak
 - **Code Scanning:** Static Analysis Engine
 - **Database:** Configurable (e.g., SQLite/Postgres)
+
+---
+## Case Studies 
+
+A public repository of case studies and technical deep-dives are available below, demonstrating Threat Shield's real-world impact across various security domains.
+
+- **Case Study 1: Securing a High-Risk Payments Platform (Threat Modeling)**
+    - **[View Live Visual Case Study (Canva)](https://www.canva.com/design/DAG0pHcZfCU/p79JOHymn3RtoRVUr-ZYtg/edit?utm_content=DAG0pHcZfCU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+
+- **Case Study 2: Validating a GenAI Chatbot against Prompt Injection (LLM Security Testing)**
+    - **[View Live Visual Case Study (Canva)](https://www.canva.com/design/DAG0pBZZH0M/dugxEJuxFIf_F9R2KntUAg/edit?utm_content=DAG0pBZZH0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 ---
 
