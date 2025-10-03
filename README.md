@@ -541,18 +541,19 @@ Threat Shield implements enterprise-grade security measures to protect your data
 
 ---
 
-## Case Studies 
+## Case Studies
 
 A public repository of case studies and technical deep-dives are available below, demonstrating Threat Shield's real-world impact across various security domains.
 
 - **Case Study 1: Securing a High-Risk Payments Platform (Threat Modeling)**
-    - **[View Live Visual Case Study (Canva)](https://www.canva.com/design/DAG0pHcZfCU/p79JOHymn3RtoRVUr-ZYtg/edit?utm_content=DAG0pHcZfCU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+    - [View Source Documentation](./case-studies/securing-payments-platform.md)
+    - **[View Full Report](https://www.canva.com/design/DAG0pHcZfCU/p79JOHymn3RtoRVUr-ZYtg/edit?utm_content=DAG0pHcZfCU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 - **Case Study 2: Validating a GenAI Chatbot against Prompt Injection (LLM Security Testing)**
-    - **[View Live Visual Case Study (Canva)](https://www.canva.com/design/DAG0pBZZH0M/dugxEJuxFIf_F9R2KntUAg/edit?utm_content=DAG0pBZZH0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+    - [View Source Documentation](./case-studies/validating-ai-chatbot.md)
+    - **[View Full Report](https://www.canva.com/design/DAG0pBZZH0M/dugxEJuxFIf_F9R2KntUAg/edit?utm_content=DAG0pBZZH0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 ---
-
 ## Support
 
 - 📧 Contact: [vartul@zeroshield.ai](mailto:vartul@zeroshield.ai)
