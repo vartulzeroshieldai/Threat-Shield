@@ -76,7 +76,7 @@
 
 ## Core Mission
 
-Empower teams to rapidly identify, understand, and remediate security risks—across all technologies—by automating threat analysis, vulnerability detection, and **compliance** mapping. **Threat Shield** bridges the gap between security, development, and **compliance**, enabling secure digital innovation.
+Empower teams to rapidly identify, understand, and remediate security risks—across all technologies—by automating threat analysis, vulnerability detection, and compliance mapping. Threat Shield bridges the gap between security, development, and compliance, enabling secure digital innovation.
 
 ---
 ## Why Threat Shield? 
