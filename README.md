@@ -78,11 +78,6 @@
 
 Empower teams to rapidly identify, understand, and remediate security risks—across all technologies—by automating threat analysis, vulnerability detection, and compliance mapping. Threat Shield bridges the gap between security, development, and compliance, enabling secure digital innovation.
 
----
-## Why Threat Shield? 
-
-> **Automate security. Accelerate compliance.**  
-> Threat Shield transforms complex, manual security and **compliance** challenges into automated, actionable insights—empowering you to prevent incidents, pass audits, and build securely at speed.
 
 ---
 
