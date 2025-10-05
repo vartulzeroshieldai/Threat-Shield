@@ -87,7 +87,7 @@ This diagram demonstrates how Threat Shield integrates with the development infr
 - Connected GitHub repositories for real-time integration  
 - Defined trust boundaries: API Gateway → Payment Processor → Database → External Networks  
 - Configured data sensitivity levels for cardholder data flows  
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/23c011ba-89c1-44f7-b7a7-9ef9c4f20f37" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/23c011ba-89c1-44f7-b7a7-9ef9c4f20f37" />
 
 
 
@@ -113,7 +113,7 @@ This diagram illustrates the end-to-end payment processing architecture, showing
 - **Compliance Impact:** 3 failed SOC 2 controls, 2 failed PCI DSS requirements  
 - **Threat Shield Guidance:** Provided OAuth 2.0 + JWT implementation pattern with sample code
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/f09d80e9-6196-405f-af06-bc9aaf53a8b9" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/f09d80e9-6196-405f-af06-bc9aaf53a8b9" />
 
 
 
