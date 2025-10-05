@@ -74,7 +74,7 @@ After securing $45M in Series B funding, GlobalPay committed to expanding into E
 ## THE SOLUTION: THREAT SHIELD IMPLEMENTATION  
 
 ### Phase 1: Foundation & Onboarding  
-<img width="1000" height="500" alt="Screenshot 2025-10-03 135400" src="https://github.com/user-attachments/assets/0874b3e7-0c87-4839-b501-108b53e8c267" />
+<img width="800" height="600" alt="Screenshot 2025-10-03 135400" src="https://github.com/user-attachments/assets/0874b3e7-0c87-4839-b501-108b53e8c267" />
 
 
 
