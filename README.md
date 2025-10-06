@@ -548,7 +548,7 @@ A public repository of case studies and technical deep-dives are available below
     - **[View Full Report](https://www.canva.com/design/DAG0pHcZfCU/view)**
 
 - **Case Study 2: Validating a GenAI Chatbot against Prompt Injection (LLM Security Testing)**
-    - [View Source Documentation](./case-studies/validating-ai-chatbot.md)
+    - [View Source Documentation](https://github.com/CyberUltron-Nikhil/Threat-Shield/blob/Megha/Case%20Studies/validating-ai-chatbot.md)
     - **[View Full Report](https://www.canva.com/design/DAG0pBZZH0M/view)**
 
 ---
