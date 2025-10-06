@@ -153,7 +153,8 @@ Each threat receives a **DREAD** score (1-10 scale) across all five dimensions, 
 
 #### Architecture Overview
 
-<img width="800" height="600" alt="Threat Modeling of Normal Systems Architecture" src="./Static Assets/Threat-modelling-Normal-systems.png" />
+<img width="800" height="600" alt="Threat-modelling-Normal-systems" src="https://github.com/user-attachments/assets/55f0d94b-079e-41dc-b251-281113ec9dbf" />
+
 
 **Description:** This diagram illustrates the comprehensive threat modeling architecture for normal systems, showing how Threat Shield analyzes system components, data flows, trust boundaries, and generates **STRIDE**-based threat assessments with **compliance** mapping.
 
@@ -247,7 +248,8 @@ https://github.com/user-attachments/assets/10ec45b0-a35f-45a7-a03f-c11f754e11b8
 
 #### Architecture Overview
 
-<img width="800" height="600" alt="LLM Threat Modeling Architecture" src="./Static Assets/Threat-modelling-LLM.png" />
+<img width="800" height="600" alt="Threat-modelling-LLM" src="https://github.com/user-attachments/assets/cb04dccb-898c-4ce4-b7be-4440cd59eedf" />
+
 
 **Description:** This diagram shows the LLM threat modeling architecture, demonstrating how Threat Shield performs comprehensive security analysis on Large Language Models, including threat modeling security probe execution, vulnerability assessment, and **compliance** mapping for AI systems.
 
@@ -342,7 +344,8 @@ Threat Shield performs comprehensive threat modeling for LLM systems, analyzing 
 
 #### Architecture Overview
 
-<img width="800" height="600" alt="MCP Server Vulnerability Scanning Architecture" src="./Static Assets/Threat-modelling-MCP.png" />
+<img width="800" height="600" alt="Threat-modelling-MCP" src="https://github.com/user-attachments/assets/e5297c79-9bdb-4143-99ae-99b834389dfc" />
+
 
 **Description:** This diagram presents the MCP Server vulnerability scanning architecture, illustrating how Threat Shield performs static code analysis on MCP repositories, identifies security vulnerabilities, and generates LLM-powered explanations with **compliance** mapping.
 
@@ -541,12 +544,12 @@ Threat Shield implements enterprise-grade security measures to protect your data
 A public repository of case studies and technical deep-dives are available below, demonstrating Threat Shield's real-world impact across various security domains.
 
 - **Case Study 1: Securing a High-Risk Payments Platform (Threat Modeling)**
-    - [View Source Documentation](./case-studies/securing-payments-platform.md)
-    - **[View Full Report](https://www.canva.com/design/DAG0pHcZfCU/p79JOHymn3RtoRVUr-ZYtg/edit?utm_content=DAG0pHcZfCU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+    - [View Source Documentation](https://github.com/CyberUltron-Nikhil/Threat-Shield/blob/Megha/Case%20Studies/securing-payments-platform.md)
+    - **[View Full Report](https://www.canva.com/design/DAG0pHcZfCU/view)**
 
 - **Case Study 2: Validating a GenAI Chatbot against Prompt Injection (LLM Security Testing)**
-    - [View Source Documentation](./case-studies/validating-ai-chatbot.md)
-    - **[View Full Report](https://www.canva.com/design/DAG0pBZZH0M/dugxEJuxFIf_F9R2KntUAg/edit?utm_content=DAG0pBZZH0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+    - [View Source Documentation](https://github.com/CyberUltron-Nikhil/Threat-Shield/blob/Megha/Case%20Studies/validating-ai-chatbot.md)
+    - **[View Full Report](https://www.canva.com/design/DAG0pBZZH0M/view)**
 
 ---
 ## Support

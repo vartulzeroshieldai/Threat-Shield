@@ -74,7 +74,8 @@ After securing $45M in Series B funding, GlobalPay committed to expanding into E
 ## THE SOLUTION: THREAT SHIELD IMPLEMENTATION  
 
 ### Phase 1: Foundation & Onboarding  
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f8628c8e-7dd8-4316-9d3a-64580aff6d3a" />
+<img width="800" height="600" alt="Screenshot 2025-10-03 135400" src="https://github.com/user-attachments/assets/0874b3e7-0c87-4839-b501-108b53e8c267" />
+
 
 
 **Figure 1: Threat Shield Analysis and Integration Workflow**  
@@ -86,7 +87,8 @@ This diagram demonstrates how Threat Shield integrates with the development infr
 - Connected GitHub repositories for real-time integration  
 - Defined trust boundaries: API Gateway → Payment Processor → Database → External Networks  
 - Configured data sensitivity levels for cardholder data flows  
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f616740c-e865-4b80-a651-e4de8f638c31" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/23c011ba-89c1-44f7-b7a7-9ef9c4f20f37" />
+
 
 
 **Figure 2: Payment Processing Data Flow**  
@@ -111,7 +113,8 @@ This diagram illustrates the end-to-end payment processing architecture, showing
 - **Compliance Impact:** 3 failed SOC 2 controls, 2 failed PCI DSS requirements  
 - **Threat Shield Guidance:** Provided OAuth 2.0 + JWT implementation pattern with sample code
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/ee9132b1-a8a5-4ee2-b95e-22c96ba81a61" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/f09d80e9-6196-405f-af06-bc9aaf53a8b9" />
+
 
 
 **Figure 3: Authentication and Secret Management Data Flow**  
