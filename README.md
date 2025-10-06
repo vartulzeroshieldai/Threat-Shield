@@ -248,7 +248,8 @@ https://github.com/user-attachments/assets/10ec45b0-a35f-45a7-a03f-c11f754e11b8
 
 #### Architecture Overview
 
-<img width="800" height="600" alt="LLM Threat Modeling Architecture" src="./Static Assets/Threat-modelling-LLM.png" />
+<img width="800" height="600" alt="Threat-modelling-LLM" src="https://github.com/user-attachments/assets/cb04dccb-898c-4ce4-b7be-4440cd59eedf" />
+
 
 **Description:** This diagram shows the LLM threat modeling architecture, demonstrating how Threat Shield performs comprehensive security analysis on Large Language Models, including threat modeling security probe execution, vulnerability assessment, and **compliance** mapping for AI systems.
 
@@ -343,7 +344,8 @@ Threat Shield performs comprehensive threat modeling for LLM systems, analyzing 
 
 #### Architecture Overview
 
-<img width="800" height="600" alt="MCP Server Vulnerability Scanning Architecture" src="./Static Assets/Threat-modelling-MCP.png" />
+<img width="800" height="600" alt="Threat-modelling-MCP" src="https://github.com/user-attachments/assets/e5297c79-9bdb-4143-99ae-99b834389dfc" />
+
 
 **Description:** This diagram presents the MCP Server vulnerability scanning architecture, illustrating how Threat Shield performs static code analysis on MCP repositories, identifies security vulnerabilities, and generates LLM-powered explanations with **compliance** mapping.
 
