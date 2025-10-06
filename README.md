@@ -544,7 +544,7 @@ Threat Shield implements enterprise-grade security measures to protect your data
 A public repository of case studies and technical deep-dives are available below, demonstrating Threat Shield's real-world impact across various security domains.
 
 - **Case Study 1: Securing a High-Risk Payments Platform (Threat Modeling)**
-    - [View Source Documentation](./case-studies/securing-payments-platform.md)
+    - [View Source Documentation](https://github.com/CyberUltron-Nikhil/Threat-Shield/blob/Megha/Case%20Studies/securing-payments-platform.md)
     - **[View Full Report](https://www.canva.com/design/DAG0pHcZfCU/view)**
 
 - **Case Study 2: Validating a GenAI Chatbot against Prompt Injection (LLM Security Testing)**
