@@ -153,7 +153,6 @@ Each threat receives a **DREAD** score (1-10 scale) across all five dimensions, 
 
 #### Architecture Overview
 
-![WhatsApp Image 2025-10-06 at 22 06 07_d607ce32](https://github.com/user-attachments/assets/6954f56b-a097-466d-8b75-1ed70e54b835)
 
 
 **Description:** This diagram illustrates the comprehensive threat modeling architecture for normal systems, showing how Threat Shield analyzes system components, data flows, trust boundaries, and generates **STRIDE**-based threat assessments with **compliance** mapping.
