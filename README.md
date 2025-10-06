@@ -542,11 +542,11 @@ A public repository of case studies and technical deep-dives are available below
 
 - **Case Study 1: Securing a High-Risk Payments Platform (Threat Modeling)**
     - [View Source Documentation](./case-studies/securing-payments-platform.md)
-    - **[View Full Report](https://www.canva.com/design/DAG0pHcZfCU/p79JOHymn3RtoRVUr-ZYtg/edit?utm_content=DAG0pHcZfCU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+    - **[View Full Report](https://www.canva.com/design/DAG0pHcZfCU/view)**
 
 - **Case Study 2: Validating a GenAI Chatbot against Prompt Injection (LLM Security Testing)**
     - [View Source Documentation](./case-studies/validating-ai-chatbot.md)
-    - **[View Full Report](https://www.canva.com/design/DAG0pBZZH0M/dugxEJuxFIf_F9R2KntUAg/edit?utm_content=DAG0pBZZH0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+    - **[View Full Report](https://www.canva.com/design/DAG0pBZZH0M/view)**
 
 ---
 ## Support
