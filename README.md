@@ -45,6 +45,11 @@
     </a>
   </div>
 
+<div align="center">
+  
+### 🚀 [Sign Up for Threat Shield](https://threatshield.zeroshield.ai)
+
+</div>
 
 ## Table of Contents
 
@@ -62,6 +67,7 @@
 - [Use Cases](#use-cases)
 - [Tech Stack](#tech-stack)
 - [Trial License & Security](#trial-license--security)
+- [Paid Access](#paid-access)
 - [Case Studies](#case-studies)
 - [Support](#support)
 - [Get Involved](#get-involved)
@@ -506,6 +512,7 @@ https://github.com/user-attachments/assets/b41ce23a-b494-49ae-81d4-46ec39a3a7ef
 ### Trial License Limits
 - **Trial accounts** have a limit of up to **5 scans** per license period
 - Upgrade to a full license for unlimited scanning and advanced features
+- **[Sign up for a trial account](https://threatshield.zeroshield.ai)**
 
 ### Security Measures & Data Protection
 
@@ -533,6 +540,18 @@ Threat Shield implements enterprise-grade security measures to protect your data
 #### Additional Security Features
 - **Automated security monitoring** with real-time threat detection
 - **Regular penetration testing** by certified security professionals
+
+---
+
+## Paid Access
+
+To learn more about our paid plans and pricing options, please contact our team:
+
+📧 **Email**: [support@zeroshield.ai](mailto:support@zeroshield.ai)
+
+Our team will work with you to find the right plan for your organization's needs.
+
+**[Get started with a trial account](https://threatshield.zeroshield.ai)** to experience Threat Shield today!
 
 ---
 
@@ -567,6 +586,10 @@ A public repository of case studies and technical deep-dives are available below
 ## Get Involved
 
 We welcome contributions from the security community! Here's how you can get involved with [Threat Shield](https://zeroshield.ai):
+
+### 🚀 Get Started
+
+**[Sign up for Threat Shield](https://threatshield.zeroshield.ai)** to start securing your systems today!
 
 ### 🤝 Contributing
 
