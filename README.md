@@ -53,6 +53,8 @@
 
 ## Table of Contents
 
+- [Trial License & Security](#trial-license--security)
+- [Paid Access](#paid-access)
 - [About](#about)
 - [Core Mission](#core-mission)
 - [Key Capabilities](#key-capabilities)
@@ -66,11 +68,58 @@
 - [Example Workflows & User Benefits](#example-workflows--user-benefits)
 - [Use Cases](#use-cases)
 - [Tech Stack](#tech-stack)
-- [Trial License & Security](#trial-license--security)
-- [Paid Access](#paid-access)
 - [Case Studies](#case-studies)
 - [Support](#support)
 - [Get Involved](#get-involved)
+
+---
+
+## Trial License & Security
+
+### Trial License Limits
+- **Trial accounts** have a limit of up to **5 scans** per license period
+- Upgrade to a full license for unlimited scanning and advanced features
+- **[Sign up for a trial account](https://threatshield.zeroshield.ai)**
+
+### Security Measures & Data Protection
+
+Threat Shield implements enterprise-grade security measures to protect your data and ensure the highest level of application security:
+
+#### File Security
+- **Antivirus scanning** is automatically performed on all file uploads to prevent malware transmission
+- All uploaded files are scanned in real-time before processing
+
+#### Application Security
+- **OWASP** Top 10 for API Security **compliance** - Threat Shield has been thoroughly tested against **OWASP** Top 10 for API Security vulnerabilities for application security
+- **Two-Factor Authentication (2FA)** - Enhanced security for login and signup with 2FA verification
+- **Secure authentication** with JWT tokens and encrypted session management
+- **Input validation** and sanitization for all user inputs to prevent injection attacks
+
+#### Data Privacy & Protection
+- **No sensitive data storage** - Repository source code, DFDs, API keys, and Personal Access Tokens submitted to the application are **never stored permanently**
+- **Temporary processing only** - Sensitive data is used solely to initiate scans and is immediately purged after analysis completion
+- **Minimal data retention** - Only trivial information is retained for record-keeping:
+  - Repository URLs (for scan tracking)
+  - System names (for project identification)
+  - Model names (for LLM assessment tracking)
+- **Encrypted data transmission** using TLS 1.3 for all communications
+- **Secure cloud infrastructure** with regular security audits and compliance certifications
+
+#### Additional Security Features
+- **Automated security monitoring** with real-time threat detection
+- **Regular penetration testing** by certified security professionals
+
+---
+
+## Paid Access
+
+To learn more about our paid plans and pricing options, please contact our team:
+
+📧 **Email**: [support@zeroshield.ai](mailto:support@zeroshield.ai)
+
+Our team will work with you to find the right plan for your organization's needs.
+
+**[Get started with a trial account](https://threatshield.zeroshield.ai)** to experience Threat Shield today!
 
 ---
 
@@ -507,54 +556,6 @@ https://github.com/user-attachments/assets/b41ce23a-b494-49ae-81d4-46ec39a3a7ef
 - **AI Analysis:** LLM/AI-powered threat modeling and security analysis
 - **Threat Modelling Methods Used to Analyze Source Code:** Static Analysis Engine
 - **Database:** Configurable (e.g., SQLite/Postgres)
-
----
-
-## Trial License & Security
-
-### Trial License Limits
-- **Trial accounts** have a limit of up to **5 scans** per license period
-- Upgrade to a full license for unlimited scanning and advanced features
-- **[Sign up for a trial account](https://threatshield.zeroshield.ai)**
-
-### Security Measures & Data Protection
-
-Threat Shield implements enterprise-grade security measures to protect your data and ensure the highest level of application security:
-
-#### File Security
-- **Antivirus scanning** is automatically performed on all file uploads to prevent malware transmission
-- All uploaded files are scanned in real-time before processing
-
-#### Application Security
-- **OWASP** Top 10 for API Security **compliance** - Threat Shield has been thoroughly tested against **OWASP** Top 10 for API Security vulnerabilities for application security
-- **Secure authentication** with JWT tokens and encrypted session management
-- **Input validation** and sanitization for all user inputs to prevent injection attacks
-
-#### Data Privacy & Protection
-- **No sensitive data storage** - Repository source code, DFDs, API keys, and Personal Access Tokens submitted to the application are **never stored permanently**
-- **Temporary processing only** - Sensitive data is used solely to initiate scans and is immediately purged after analysis completion
-- **Minimal data retention** - Only trivial information is retained for record-keeping:
-  - Repository URLs (for scan tracking)
-  - System names (for project identification)
-  - Model names (for LLM assessment tracking)
-- **Encrypted data transmission** using TLS 1.3 for all communications
-- **Secure cloud infrastructure** with regular security audits and compliance certifications
-
-#### Additional Security Features
-- **Automated security monitoring** with real-time threat detection
-- **Regular penetration testing** by certified security professionals
-
----
-
-## Paid Access
-
-To learn more about our paid plans and pricing options, please contact our team:
-
-📧 **Email**: [support@zeroshield.ai](mailto:support@zeroshield.ai)
-
-Our team will work with you to find the right plan for your organization's needs.
-
-**[Get started with a trial account](https://threatshield.zeroshield.ai)** to experience Threat Shield today!
 
 ---
 
