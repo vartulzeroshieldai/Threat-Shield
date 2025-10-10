@@ -215,7 +215,10 @@ Each threat receives a **DREAD** score (1-10 scale) across all five dimensions, 
 
 #### Demo Video
 
-https://github.com/user-attachments/assets/10ec45b0-a35f-45a7-a03f-c11f754e11b8
+
+https://github.com/user-attachments/assets/821853e3-557f-472b-a108-3a2a98bd97d5
+
+
 
 #### What Users See & How It Works
 
@@ -310,7 +313,9 @@ https://github.com/user-attachments/assets/10ec45b0-a35f-45a7-a03f-c11f754e11b8
 
 #### Demo Video
 
-https://github.com/user-attachments/assets/8dd9b7b6-4781-4b37-8a62-788bc274b79d
+
+https://github.com/user-attachments/assets/80d820aa-c047-4783-a022-eede99f006af
+
 
 #### What Users See & How It Works
 
@@ -406,7 +411,10 @@ Threat Shield performs comprehensive threat modeling for LLM systems, analyzing 
 
 #### Demo Video
 
-https://github.com/user-attachments/assets/b41ce23a-b494-49ae-81d4-46ec39a3a7ef
+
+https://github.com/user-attachments/assets/989573aa-2666-4534-ac17-de8862b0937e
+
+
 
 #### What Users See & How It Works
 
