@@ -88,6 +88,7 @@ Threat Shield implements enterprise-grade security measures to protect your data
 #### File Security
 - **Antivirus scanning** is automatically performed on all file uploads to prevent malware transmission
 - All uploaded files are scanned in real-time before processing
+- **File size limit**: Individual file uploads are limited to **100 MB** (GitHub repository size limit)
 
 #### Application Security
 - **OWASP** Top 10 for API Security **compliance** - Threat Shield has been thoroughly tested against **OWASP** Top 10 for API Security vulnerabilities for application security
@@ -228,6 +229,7 @@ https://github.com/user-attachments/assets/821853e3-557f-472b-a108-3a2a98bd97d5
 - **Project Creation Dialog:**  
   - Tabs: Threat modeling / LLM Threat Modeling / MCP Scanning  
   - Fields: System Name, Architecture Type, Description, Internet Facing (Y/N), Upload Architecture/DFD/UML, GitHub Repo connect, Auth Type, Data Sensitivity, Dependencies
+  - **Note**: Uploaded diagrams and files must be under **100 MB** (GitHub repository size limit)
 - **Project Dashboard:**  
   - **Summary Cards:**  
       - Total **STRIDE** Threats Identified  
@@ -421,7 +423,8 @@ https://github.com/user-attachments/assets/989573aa-2666-4534-ac17-de8862b0937e
 
 - **MCP Scans List:**  
   - Table: [Repository Name, Total Results, Language, Status, Created At]
-  - “Create Project” for new scan
+  - "Create Project" for new scan
+  - **Note**: Repository files must be under **100 MB** each (GitHub repository size limit)
 - **MCP Scanning Project Dashboard:**  
   - **Summary Cards:**  
       - Total Results  
@@ -464,6 +467,7 @@ https://github.com/user-attachments/assets/989573aa-2666-4534-ac17-de8862b0937e
 - **Phase 1:**  
   - Repository is temporarily cloned and scanned for static code analysis.
   - The system flags all code patterns matching vulnerability rules.
+  - **Note**: Repository files must be under **100 MB** each (GitHub repository size limit).
 - **Phase 2:**  
   - Each finding is analyzed by an LLM to generate explanations and actionable fixes.
   - Further mapped to **OWASP** Top 10 for API Security vulnerabilities and failed **compliance** controls (ISO 27001, PCI DSS, NIST, SOC2, GDPR, etc.).
@@ -486,6 +490,7 @@ https://github.com/user-attachments/assets/989573aa-2666-4534-ac17-de8862b0937e
     - When a scan is triggered, Threat Shield temporarily clones the selected MCP repository.
     - The system runs a suite of static analysis rules covering **OWASP** Top 10 for API Security, common code smells, secrets, and insecure configurations.
     - The analysis engine is chosen for its speed, accuracy, and extensibility (custom rules per project/language).
+    - **Note**: Repository files must be under **100 MB** each (GitHub repository size limit).
 - **Step 2: LLM-Powered Findings**
     - Each finding is passed to an LLM for further analysis, generating:
         - Human-readable explanation of risk
@@ -571,13 +576,9 @@ https://github.com/user-attachments/assets/989573aa-2666-4534-ac17-de8862b0937e
 
 A public repository of case studies and technical deep-dives are available below, demonstrating Threat Shield's real-world impact across various security domains.
 
-- **Case Study 1: Securing a High-Risk Payments Platform (Threat Modeling)**
-    - [View Source Documentation](https://github.com/CyberUltron-Nikhil/Threat-Shield/blob/Megha/Case%20Studies/securing-payments-platform.md)
-    - **[View Full Report](https://www.canva.com/design/DAG0pHcZfCU/view)**
+- **[Case Study 1: Securing a High-Risk Payments Platform (Threat Modeling)](Case%20Studies/securing-payments-platform.md)**
 
-- **Case Study 2: Validating a GenAI Chatbot against Prompt Injection (LLM Security Testing)**
-    - [View Source Documentation](https://github.com/CyberUltron-Nikhil/Threat-Shield/blob/Megha/Case%20Studies/validating-ai-chatbot.md)
-    - **[View Full Report](https://www.canva.com/design/DAG0pBZZH0M/view)**
+- **[Case Study 2: Validating a GenAI Chatbot against Prompt Injection (LLM Security Testing)](Case%20Studies/validating-ai-chatbot.md)**
 
 ---
 ## Support
@@ -609,6 +610,7 @@ We welcome contributions from the security community! Here's how you can get inv
 - **Code Contributions**: Submit pull requests to help improve [Threat Shield](https://zeroshield.ai)
 - **Documentation**: Help improve our documentation and examples
 - **Security Research**: Contribute new threat models, attack patterns, or vulnerability tests
+- **Note**: When contributing files to the repository, please ensure individual files are under **100 MB** (GitHub repository size limit)
 
 ### 🔗 Community
 
