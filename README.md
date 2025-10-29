@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Threat Shield
+# 🛡️ ThreatShield
 
 ### *Advanced Threat Modeling & Security Intelligence Platform*
 
