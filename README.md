@@ -2,7 +2,7 @@
 
 # 🛡️ ThreatShield
 
-### *Advanced Threat Modeling & Security Intelligence Platform*
+### *Enterprise grade Threat Modeling & Security Intelligence enhanced by AI*
 
 <br />
 
@@ -125,23 +125,23 @@ Our team will work with you to find the right plan for your organization's needs
 ---
 
 ## About Threat Shield
-**Threat Shield** is an advanced threat modelling platform within the **[ZeroShield](https://zeroshield.ai)** platform, designed to give organizations deep, actionable insight into risks across classic applications, codebases, and cutting-edge GenAI/LLM integrations. Threat Shield leverages **Generative AI** to perform comprehensive threat modeling, analyzing system architectures, identifying vulnerabilities, and generating actionable security insights. Threat Shield unifies real-time threat modeling, LLM threat modeling, and MCP codebase vulnerability scanning for a complete, **compliance**-ready view of your security posture.
+**Threat Shield** is an advanced threat modelling platform within the **[ZeroShield](https://zeroshield.ai)** platform, designed to give organizations deep, actionable insight into risks across classic applications, codebases, and cutting-edge GenAI/LLM integrations. Threat Shield leverages **Large Language Models** to perform comprehensive threat modeling, analyzing system architectures, identifying vulnerabilities, and generating actionable security insights. Threat Shield unifies real-time threat modeling, LLM threat modeling, and MCP codebase vulnerability scanning for a complete, **compliance**-ready view of your security posture.
 
 
 ---
 
 ## Core Mission
 
-Empower teams to rapidly identify, understand, and remediate security risks—across all technologies—by automating threat analysis using **Generative AI**, vulnerability detection, and compliance mapping. Threat Shield bridges the gap between security, development, and compliance, enabling secure digital innovation.
+Empower teams to rapidly identify, understand, and remediate security risks—across all technologies—by automating threat analysis using **Large Language Models**, vulnerability detection, and compliance mapping. Threat Shield bridges the gap between security, development, and compliance, enabling secure digital innovation.
 
 
 ---
 
 ## Key Capabilities
 
-- Automated Threat Modeling for Classic and Cloud-Native Systems (powered by **Generative AI**)
-- Advanced LLM Threat Modeling (comprehensive security analysis using **Generative AI**)
-- MCP Server-Based Vulnerability Scanning & **Compliance** analysis ( using **Generative AI** )
+- Automated Threat Modeling for Classic and Cloud-Native Systems (powered by **Large Language Models**)
+- Advanced LLM Threat Modeling (comprehensive security analysis using **Large Language Models**)
+- MCP Server-Based Vulnerability Scanning & **Compliance** analysis ( using **Large Language Models** )
 - Real-Time **Compliance** & **OWASP** Top 10 for API Security Mapping (ISO, PCI, SOC2, NIST, GDPR)
 - Unified Risk Analytics & Visualizations
 
@@ -149,7 +149,7 @@ Empower teams to rapidly identify, understand, and remediate security risks—ac
 
 ## Security Frameworks & Methodologies
 
-Threat Shield employs industry-standard security frameworks enhanced by **Generative AI** to ensure comprehensive threat analysis:
+Threat Shield employs industry-standard security frameworks enhanced by **Large Language Models** to ensure comprehensive threat analysis:
 
 ### **STRIDE** Threat Classification
 **STRIDE** is a threat modeling framework that categorizes security threats into six fundamental types:
@@ -179,17 +179,17 @@ Each threat receives a **DREAD** score (1-10 scale) across all five dimensions, 
 ### **Security Engineers**
 *Automate threat modeling, vulnerability scanning, and **compliance**.*
 
-**Real World Scenario:** Sarah, a Senior Security Engineer at a fintech startup, is tasked with conducting a comprehensive security assessment of their new payment processing system before the PCI audit next month. Using Threat Shield, she uploads the system architecture diagrams and connects the GitHub repository. The platform's **Generative AI** engine performs comprehensive threat modeling analysis. Within hours, she receives a detailed threat model identifying 23 **STRIDE** threats, including critical API key exposure and authentication bypass vulnerabilities. The **DREAD** heatmap helps her prioritize the 7 high-risk issues that could fail PCI **compliance** controls. She exports an audit-ready report showing all findings mapped to PCI DSS requirements, saving weeks of manual analysis and ensuring the system passes the audit on the first try.
+**Real World Scenario:** Sarah, a Senior Security Engineer at a fintech startup, is tasked with conducting a comprehensive security assessment of their new payment processing system before the PCI audit next month. Using Threat Shield, she uploads the system architecture diagrams and connects the GitHub repository. The platform's **Large Language Models** engine performs comprehensive threat modeling analysis. Within hours, she receives a detailed threat model identifying 23 **STRIDE** threats, including critical API key exposure and authentication bypass vulnerabilities. The **DREAD** heatmap helps her prioritize the 7 high-risk issues that could fail PCI **compliance** controls. She exports an audit-ready report showing all findings mapped to PCI DSS requirements, saving weeks of manual analysis and ensuring the system passes the audit on the first try.
 
 ### **Developers & DevOps**
 *Integrate risk analysis into CI/CD and shift security left.*
 
-**Real World Scenario:** Mike, a DevOps Lead at a SaaS company, needs to implement security scanning in their CI/CD pipeline for 15 microservices. He integrates Threat Shield into their GitHub Actions workflow, enabling automatic **Generative AI-powered** threat modeling on every pull request. When a developer pushes code with a hardcoded database password, Threat Shield's **Generative AI** analysis immediately flags it as a **STRIDE** Information Disclosure threat with a high **DREAD** score. The system blocks the merge, provides the developer with an actionable fix, and creates a **compliance** tracking ticket. This prevents 3 potential security incidents in the first month, reducing their security debt by 40% and accelerating their SOC2 certification timeline.
+**Real World Scenario:** Mike, a DevOps Lead at a SaaS company, needs to implement security scanning in their CI/CD pipeline for 15 microservices. He integrates Threat Shield into their GitHub Actions workflow, enabling automatic **Large Language Models-powered** threat modeling on every pull request. When a developer pushes code with a hardcoded database password, Threat Shield's **Large Language Models** analysis immediately flags it as a **STRIDE** Information Disclosure threat with a high **DREAD** score. The system blocks the merge, provides the developer with an actionable fix, and creates a **compliance** tracking ticket. This prevents 3 potential security incidents in the first month, reducing their security debt by 40% and accelerating their SOC2 certification timeline.
 
 ### **AI/ML & Product Teams**
 *Secure and validate LLM/GenAI features with real threat modeling security probes.*
 
-**Real World Scenario:** Dr. Lisa Chen, an AI Product Manager at a healthcare technology company, is launching an AI-powered patient consultation chatbot that handles sensitive medical data. Before going live, she runs Threat Shield's threat modeling assessment powered by **Generative AI**, which executes 40+ threat modeling security probes. The results reveal high vulnerability to prompt injection attacks that could expose patient data, triggering failed HIPAA **compliance** controls. Using the detailed **LLM**-generated remediation suggestions, her team implements input sanitization and context filtering. After re-running the assessment, the risk level drops to "Low" and all **compliance** checks pass, allowing the chatbot to launch securely and handle thousands of patient interactions without security incidents.
+**Real World Scenario:** Dr. Lisa Chen, an AI Product Manager at a healthcare technology company, is launching an AI-powered patient consultation chatbot that handles sensitive medical data. Before going live, she runs Threat Shield's threat modeling assessment powered by **Large Language Models**, which executes 40+ threat modeling security probes. The results reveal high vulnerability to prompt injection attacks that could expose patient data, triggering failed HIPAA **compliance** controls. Using the detailed **LLM**-generated remediation suggestions, her team implements input sanitization and context filtering. After re-running the assessment, the risk level drops to "Low" and all **compliance** checks pass, allowing the chatbot to launch securely and handle thousands of patient interactions without security incidents.
 
 ### **Compliance & Audit Teams**
 *Map vulnerabilities to **compliance** frameworks and track remediation.*
@@ -294,8 +294,8 @@ https://github.com/user-attachments/assets/821853e3-557f-472b-a108-3a2a98bd97d5
 
 #### Deep-Dive: How It Works
 - Upload system diagrams, code, and metadata.
-- The **Generative AI-powered** engine analyzes flows, trust boundaries, and identifies threats using **STRIDE** (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege), **DREAD** (Damage, Reproducibility, Exploitability, Affected Users, Discoverability), and **OWASP** logic.
-- Each threat is auto-mapped to **compliance** controls using **Generative AI** analysis.
+- The **Large Language Models-powered** engine analyzes flows, trust boundaries, and identifies threats using **STRIDE** (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege), **DREAD** (Damage, Reproducibility, Exploitability, Affected Users, Discoverability), and **OWASP** logic.
+- Each threat is auto-mapped to **compliance** controls using **Large Language Models** analysis.
 - Dashboard and report update in real-time as threats are resolved.
 
 #### Hypothetical User Scenario
@@ -311,7 +311,7 @@ https://github.com/user-attachments/assets/821853e3-557f-472b-a108-3a2a98bd97d5
 <img width="800" height="600" alt="Threat-modelling-LLM" src="https://github.com/user-attachments/assets/cb04dccb-898c-4ce4-b7be-4440cd59eedf" />
 
 
-**Description:** This diagram shows the LLM threat modeling architecture, demonstrating how Threat Shield uses **Generative AI** to perform comprehensive security analysis on Large Language Models, including threat modeling security probe execution, vulnerability assessment, and **compliance** mapping for AI systems.
+**Description:** This diagram shows the LLM threat modeling architecture, demonstrating how Threat Shield uses **Large Language Models** to perform comprehensive security analysis on Large Language Models, including threat modeling security probe execution, vulnerability assessment, and **compliance** mapping for AI systems.
 
 #### Demo Video
 
@@ -349,7 +349,7 @@ https://github.com/user-attachments/assets/80d820aa-c047-4783-a022-eede99f006af
 - **AI Powered Threat modeling** analyzes LLM systems for:  
   - ANSI escapes, attack generation, audio attacks, antivirus/spam bypass, data leakage, prompt injection, roleplay/jailbreaks, SQLi, XSS, hallucinated package names, adversarial suffixes, emotional manipulation, and more.
 - **LLM Exposure Analysis:**  
-  - Beyond threat modeling security probe results, Threat Shield's **Generative AI** analyzes the LLM's exposure and risk posture, surfaces all successful bypasses, and maps to **OWASP** Top 10 for API Security and failed **compliance** controls.
+  - Beyond threat modeling security probe results, Threat Shield's **Large Language Models** analyzes the LLM's exposure and risk posture, surfaces all successful bypasses, and maps to **OWASP** Top 10 for API Security and failed **compliance** controls.
 
 ### LLM Threat Modeling Security Probe Finding Details
 
@@ -362,7 +362,7 @@ https://github.com/user-attachments/assets/80d820aa-c047-4783-a022-eede99f006af
 
 #### Deep-Dive: LLM Threat Modeling System
 
-Threat Shield uses **Generative AI** to perform comprehensive threat modeling for LLM systems, analyzing dozens of security categories:
+Threat Shield uses **Large Language Models** to perform comprehensive threat modeling for LLM systems, analyzing dozens of security categories:
 
 | Threat Category        | What It Analyzes                                                          | Why It Matters                        |
 |-----------------------|--------------------------------------------------------------------------|---------------------------------------|
@@ -390,14 +390,14 @@ Threat Shield uses **Generative AI** to perform comprehensive threat modeling fo
 #### How It Benefits Users
 
 - **Real-world threat modeling** using **LLMs** and comprehensive security analysis techniques.
-- **Immediate understanding of LLM weaknesses and exposure** through **Generative AI** analysis.
-- **Human-readable explanations and remediation steps** generated by **Generative AI** for every finding.
+- **Immediate understanding of LLM weaknesses and exposure** through **Large Language Models** analysis.
+- **Human-readable explanations and remediation steps** generated by **Large Language Models** for every finding.
 - **Continuous assessment** as models/prompts evolve.
 - **Supports secure, compliant AI adoption** in any environment.
 
 #### Hypothetical User Scenario
 
-> **Raj**, an AI/ML Product Lead, is launching a GenAI-powered helpdesk. He runs a Threat Shield LLM threat modeling assessment powered by **Generative AI**, which analyzes 40+ security threat vectors. The dashboard reveals high-risk prompt injection and roleplay vulnerabilities, and a failed GDPR control. Raj reviews the **AI**-generated suggested fixes, patches the prompt template, and re-runs the assessment—dropping risk level to "Low" and passing all **compliance** checks before go-live.
+> **Raj**, an AI/ML Product Lead, is launching a GenAI-powered helpdesk. He runs a Threat Shield LLM threat modeling assessment powered by **Large Language Models**, which analyzes 40+ security threat vectors. The dashboard reveals high-risk prompt injection and roleplay vulnerabilities, and a failed GDPR control. Raj reviews the **AI**-generated suggested fixes, patches the prompt template, and re-runs the assessment—dropping risk level to "Low" and passing all **compliance** checks before go-live.
 
 
 
@@ -491,8 +491,8 @@ https://github.com/user-attachments/assets/989573aa-2666-4534-ac17-de8862b0937e
     - The system runs a suite of static analysis rules covering **OWASP** Top 10 for API Security, common code smells, secrets, and insecure configurations.
     - The analysis engine is chosen for its speed, accuracy, and extensibility (custom rules per project/language).
     - **Note**: Repository files must be under **100 MB** each (GitHub repository size limit).
-- **Step 2: Generative AI-Powered Findings**
-    - Each finding is passed to a **Generative AI** model for further analysis, generating:
+- **Step 2: Large Language Models-Powered Findings**
+    - Each finding is passed to a **Large Language Models** model for further analysis, generating:
         - Human-readable explanation of risk
         - Contextual remediation steps
         - Mapping to **compliance** controls (ISO, PCI, SOC2, NIST, GDPR, etc.)
@@ -528,17 +528,17 @@ https://github.com/user-attachments/assets/989573aa-2666-4534-ac17-de8862b0937e
 | Malicious Code Generation                  | A06, A10     | ✓         |         |      |      |      |
 | Compliance Control Failure (General)       | All          | ✓         | ✓       | ✓    | ✓    | ✓    |
 
-*Each finding in the dashboard is automatically mapped to these standards using **Generative AI**-enhanced threat modeling security probe/static analysis metadata and logic. **Compliance** impact is shown per issue and in summary cards.*
+*Each finding in the dashboard is automatically mapped to these standards using **Large Language Models**-enhanced threat modeling security probe/static analysis metadata and logic. **Compliance** impact is shown per issue and in summary cards.*
 
 
 ## Example Workflows & User Benefits
 
 **Threat Modeling Workflow:**  
 - Upload system diagrams and architecture details, **LLM** analyzes and generates comprehensive threat model, review generated threat model, prioritize/assign remediation, track resolution and **compliance** mapping.
-- Dashboard instantly shows unresolved **STRIDE** threats, failed PCI **compliance** controls, and actionable fixes generated by **Generative AI**.
+- Dashboard instantly shows unresolved **STRIDE** threats, failed PCI **compliance** controls, and actionable fixes generated by **Large Language Models**.
 
 **LLM Security Workflow:**  
-- Register LLMs for assessment, receive prioritized threat modeling reports with detailed **Generative AI** analysis, act on **AI**-generated fix steps, monitor ongoing risk.
+- Register LLMs for assessment, receive prioritized threat modeling reports with detailed **Large Language Models** analysis, act on **AI**-generated fix steps, monitor ongoing risk.
 -  AI/ML lead performs threat modeling on a chatbot; dashboard highlights prompt injection risk and GDPR **compliance** issues; fixes are applied and risk drops.
 
 **MCP Vulnerability Workflow:**  
@@ -566,8 +566,8 @@ https://github.com/user-attachments/assets/989573aa-2666-4534-ac17-de8862b0937e
 
 - **Backend:** Python (FastAPI), REST API, JWT Auth
 - **Frontend:** Next.js (TypeScript), Tailwind CSS, Lucide React, React
-- **AI Analysis:** LLM/**Generative AI**-powered threat modeling and security analysis
-- **Threat Modelling Methods Used to Analyze Source Code:** **Generative AI**-enhanced Static Analysis Engine
+- **AI Analysis:** LLM/**Large Language Models**-powered threat modeling and security analysis
+- **Threat Modelling Methods Used to Analyze Source Code:** **Large Language Models**-enhanced Static Analysis Engine
 - **Database:** Configurable (e.g., SQLite/Postgres)
 
 ---
