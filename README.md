@@ -67,7 +67,6 @@
 - [Compliance Mapping](#compliance-mapping)
 - [Example Workflows & User Benefits](#example-workflows--user-benefits)
 - [Use Cases](#use-cases)
-- [Tech Stack](#tech-stack)
 - [Case Studies](#case-studies)
 - [Support](#support)
 - [Get Involved](#get-involved)
@@ -559,16 +558,6 @@ https://github.com/user-attachments/assets/989573aa-2666-4534-ac17-de8862b0937e
 - DevSecOps integration into CI/CD
 - GenAI/LLM security validation and monitoring
 - MCP workload/codebase security
-
----
-
-## Tech Stack
-
-- **Backend:** Python (FastAPI), REST API, JWT Auth
-- **Frontend:** Next.js (TypeScript), Tailwind CSS, Lucide React, React
-- **AI Analysis:** LLM/**Large Language Models**-powered threat modeling and security analysis
-- **Threat Modelling Methods Used to Analyze Source Code:** **Large Language Models**-enhanced Static Analysis Engine
-- **Database:** Configurable (e.g., SQLite/Postgres)
 
 ---
 
