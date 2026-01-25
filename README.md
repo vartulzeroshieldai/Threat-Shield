@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🛡️ ThreatShield
+# 🛡️ _ThreatShield - Threat Modelling Platform_ 
 
-### *Enterprise grade Threat Modeling & Security Intelligence enhanced by AI*
+### *Enterprise grade Threat Modeling for Legal Systems & AI Based Systems enhanced by Generative AI*
 
 <br />
 
